@@ -1,0 +1,7 @@
+env/
+__pycache__/
+test.py
+api/__pycache__/
+db/__pycache__/
+controllers/__pycache__/
+helpers/__pycache__/
