@@ -1,4 +1,4 @@
-# This is a Wall Street Bets tracker using python and postgres
+# This is a small python program to analyse Wall Street Bets content 
 
 ### Current Features
 1. Get past posts (from previous hours or days)
